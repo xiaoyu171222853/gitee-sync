@@ -10,7 +10,7 @@ repositories:
       # GitHub 目标仓库名称
       repo_name: "WeChat-JavaBot"
       # GitHub 目标分支名称（可选，默认与 Gitee 分支相同）
-      branch: "main"
+      branch: "master"
       # 是否为私有仓库
       private: false
   # 可以继续添加更多仓库配置...
