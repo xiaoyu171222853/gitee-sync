@@ -5,12 +5,12 @@ repositories:
       # Gitee 仓库完整地址
       repo_url: "https://gitee.com/xiaoyudi_xyz/deepseek.git"
       # 要同步的源分支
-      branch: "master"
+      branch: "main"
     github:
       # GitHub 目标仓库名称
       repo_name: "DeepSeek4J"
       # GitHub 目标分支名称（可选，默认与 Gitee 分支相同）
-      branch: "master"
+      # branch: "main"
       # 是否为私有仓库
       private: false
   # 可以继续添加更多仓库配置...
